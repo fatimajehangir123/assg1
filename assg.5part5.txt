@@ -1,0 +1,18 @@
+<html>
+<body>
+<dl>
+<ol>
+<h1><dt><li>Fruits</li></dt></h1>
+<dd><li>Mango</li></dd>
+<dd><li>Orange</li></dd>
+
+<h2><dt><li>Vegetables</li></dt></h2>
+<dd><li>Cabbage</li></dd>
+<dd><li>Capsicum</li></dd>
+( &nbsp; entity)<dd><li>Green Capsicum( /&nbsp; entity)</dd></li>
+( &nbsp; entity)<dd><li>Yellow Capsicum( /&nbsp; entity)</dd></li>
+( &nbsp; entity)<dd><li>Red Capsicum( /&nbsp; entity)</dd></li>
+</ol>
+</dl>
+</body>
+</html>
